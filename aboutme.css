@@ -168,6 +168,11 @@ header{
         font-weight: 500;
         position: relative;
     }
+
+    .footer-col .links a{
+        text-decoration: none;
+        color: #fff;
+    }
     
     .footer-col{
         width: 20%;
